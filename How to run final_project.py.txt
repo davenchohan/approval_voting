@@ -1,0 +1,27 @@
+How to run the program final_project.py on a Ubuntu Linux machine.
+
+Pre-Reqs:
+Make sure you have Python 3 installed, the program was tested on python version 3.7 and version 3.8.5
+
+1. Open up terminal and navigate to the directory of where the program is saved.
+
+2. Once in the correct directory in terminal type in "python final_project.py" (ignoring the quotation marks)
+
+3. The program will then ask you the name of the ballot file, the ballot file must be in the same directory as the program
+   and when you enter the file name it must end in .txt (for example: "example5.txt")
+
+4. If a proper name is entered you will now see the results.
+
+How to run the program final_project.py on a Windows machine.
+
+Pre-Reqs:
+Make sure you have Python 3 installed, the program was tested on python version 3.7 and version 3.8.5
+
+1. Open up the program using the Python IDLE and click the run button in the top tool bar.
+
+2. From the drop down menu choose run module.
+
+3. The program will then ask you the name of the ballot file, the ballot file must be in the same directory as the program
+   and when you enter the file name it must end in .txt (for example: "example5.txt")
+
+4. If a proper name is entered you will now see the results.
